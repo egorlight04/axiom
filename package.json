@@ -1,7 +1,7 @@
 {
 	"name": "gulp-template",
 	"version": "1.0.0",
-	"description": "Gulp project template by Egor Light",
+	"description": "School blog for The Axiom Education Center",
 	"main": "gulpfile.js",
 	"scripts": {
 		"start": "gulp"

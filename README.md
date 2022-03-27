@@ -1,2 +1,1 @@
-# Gulp project template
-Use it if you want to.
+# The Axiom Education Center: blog web-site
